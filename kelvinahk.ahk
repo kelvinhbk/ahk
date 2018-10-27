@@ -654,7 +654,6 @@ IfWinNotActive, ahk_class EVERYTHING
      }
 return
 
-/*
 #y::
 IfWinNotActive, ahk_class Qt5QWindow
      {
@@ -676,7 +675,6 @@ IfWinNotActive, ahk_class Qt5QWindow
          WinMinimize, ahk_class Qt5QWindow
      }
 return
-*/
 
 ;虚拟屏幕的控制--------------------
 #;::
